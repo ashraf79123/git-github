@@ -13,3 +13,6 @@ function sub(a,b){
 function xxx(a,b){
   return a+b;
 }
+function bbb(a,b){
+  return a,b;
+}
