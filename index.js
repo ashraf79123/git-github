@@ -9,3 +9,7 @@ function xyz(a,b){
 function sub(a,b){
   return a-b;
 }
+
+function xxx(a,b){
+  return a+b;
+}
